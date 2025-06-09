@@ -2,6 +2,8 @@
 
 Este projeto é uma aplicação React + Vite que permite ao usuário pesquisar filmes via API TMDB, favoritar resultados e visualizar seus favoritos com destaque visual e navegação por teclado.
 
+https://github.com/user-attachments/assets/3bcdf108-b240-4de6-a83d-1618ec9b9de7
+
 ---
 
 ## 🚀 Tecnologias Utilizadas
